@@ -1,7 +1,9 @@
-/* Space out content a bit */
-body {
+/* Space out content a bit */ 
+body, html {
   padding-top: 20px;
   padding-bottom: 20px;
+  background-color: gray;
+  color: coral;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
